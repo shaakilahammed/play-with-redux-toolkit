@@ -1,0 +1,16 @@
+{
+  "name": "assignment-5-play-with-redux-tookit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "node-fetch": "^3.3.1"
+  }
+}
